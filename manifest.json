@@ -14,5 +14,5 @@
     "scripts": ["background-script.js"]
   },
 
-  "permissions": ["menus"]
+  "permissions": ["menus", "activeTab"]
 }

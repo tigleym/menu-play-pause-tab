@@ -1,0 +1,18 @@
+{
+
+  "manifest_version": 2,
+  "name": "Play or Pause Tab",
+  "version": "1.0",
+
+  "description": "Adds a context menu item that will play/pause media on the selected tab.",
+
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "background": {
+    "scripts": ["background-script.js"]
+  },
+
+  "permissions": ["menus"]
+}
